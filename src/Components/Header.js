@@ -5,7 +5,7 @@ import headerImg from "../Assets/planet.jpg";
 
 function Header() {
   return (
-    <div className="flex flex-col md:flex-row items-center md:items-start justify-between p-4 md:mt-40 text-white" style={{ backgroundColor: "#131718", color: "white" }}>
+    <div className="flex flex-col md:flex-row items-center md:items-start justify-between p-4 md:mt-40  text-white" style={{ backgroundColor: "#131718", color: "white" }}>
       <motion.div
         className="md:w-1/2 p-4"
         initial={{ opacity: 0, x: -50 }}
@@ -13,7 +13,7 @@ function Header() {
         transition={{ duration: 1 }}
       >
         <motion.div
-          className="mb-2 mt-11"
+          className="mb-2 lg:mt-11 mt-20"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 0.5 }}
