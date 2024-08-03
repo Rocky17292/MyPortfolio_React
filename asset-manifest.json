@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio_React/static/css/main.b1b3ae67.css",
+    "main.js": "/MyPortfolio_React/static/js/main.6f84ac48.js",
+    "static/js/453.04ec5b8f.chunk.js": "/MyPortfolio_React/static/js/453.04ec5b8f.chunk.js",
+    "static/media/guruji_1.png": "/MyPortfolio_React/static/media/guruji_1.722b5263dc0881a7c871.png",
+    "static/media/guruji_3.png": "/MyPortfolio_React/static/media/guruji_3.9526c7f43c87f8d5989f.png",
+    "static/media/BioInfo.png": "/MyPortfolio_React/static/media/BioInfo.173f8211a855ab395bdb.png",
+    "static/media/planet.jpg": "/MyPortfolio_React/static/media/planet.d509e871621e0d4e43b8.jpg",
+    "static/media/flappyBird.png": "/MyPortfolio_React/static/media/flappyBird.5af94b298fc3e1d25bc7.png",
+    "static/media/SDS.jpg": "/MyPortfolio_React/static/media/SDS.54000520a449eb4b2077.jpg",
+    "index.html": "/MyPortfolio_React/index.html",
+    "main.b1b3ae67.css.map": "/MyPortfolio_React/static/css/main.b1b3ae67.css.map",
+    "main.6f84ac48.js.map": "/MyPortfolio_React/static/js/main.6f84ac48.js.map",
+    "453.04ec5b8f.chunk.js.map": "/MyPortfolio_React/static/js/453.04ec5b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b3ae67.css",
+    "static/js/main.6f84ac48.js"
+  ]
+}
