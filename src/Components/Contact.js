@@ -29,7 +29,7 @@ function Contact() {
           <a href="mailto:rushishinde17292@gmail.com" aria-label="Email">
             <FontAwesomeIcon icon={faEnvelope} style={{ color: "#ffcc6c" }} />
           </a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/rushikesh-shinde-8a2b72222/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <FontAwesomeIcon icon={faLinkedin} style={{ color: "#0077B5" }} />
           </a>
           <a href="https://github.com/Rocky17292" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
